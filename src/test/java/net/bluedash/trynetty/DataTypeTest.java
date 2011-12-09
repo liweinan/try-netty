@@ -1,4 +1,4 @@
-package net.bluedash;
+package net.bluedash.trynetty;
 
 import static org.junit.Assert.assertEquals;
 
